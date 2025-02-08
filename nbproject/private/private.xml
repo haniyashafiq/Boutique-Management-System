@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/OrderDetailsForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/ProductVariantForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/Inventory.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/Connector.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/SupplierUpdateForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/OrderForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/Product.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/InRemoveProductForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/OrderDetails.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/SupplierAddForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/VariantUpdateProductForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/InventoryForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/OrderDetailsRemoveForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/UpdateProductForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/RemoveProductForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/OrderAddForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/UpdateStaffForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/OrderUpdateForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/RemoveStaffForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/SupplierForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/OrderRemoveForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/SearchCustomerForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/VariantRemoveProductForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/Supplier.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/OrderDetailsAddForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/SupplierRemoveForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/InAddProductForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/VariantAddProductForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/Order.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/Person.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/OrderDetailsUpdateForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/CustomerForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/ProductVariant.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/Main.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/StaffForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/Dashboard.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/Customer.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/RemoveCustomerForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/LoginForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/SupplierProductForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/UpdateCustomerForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/InUpdateProductForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/SearchStaffForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/AddCustomerForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/Staff.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/AddProductForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/AddStaffForm.java</file>
+            <file>file:/E:/NetBeansProjects/BMS/src/bmspackage/ProductForm.java</file>
+        </group>
+    </open-files>
+</project-private>
